@@ -1,0 +1,353 @@
+fileFormatVersion: 2
+guid: 3761d82e81956274c8eee83d865fab5d
+timeCreated: 1478150330
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Cube
+    100004: Cube.001
+    100006: Form
+    100008: Form 1
+    100010: Form 2
+    100012: Form 3
+    100014: Form 4
+    100016: Futomomo_L
+    100018: Futomomo_L 1
+    100020: Futomomo_L 2
+    100022: Futomomo_L 3
+    100024: Futomomo_L 4
+    100026: Futomomo_L.001
+    100028: Futomomo_L.001 1
+    100030: Futomomo_L.001 2
+    100032: Futomomo_L.001 3
+    100034: Futomomo_L.001 4
+    100036: Futomomo_L.001_end
+    100038: Futomomo_L.001_end 1
+    100040: Futomomo_L.001_end 2
+    100042: Futomomo_L.001_end 3
+    100044: Futomomo_L.001_end 4
+    100046: Futomomo_R
+    100048: Futomomo_R 1
+    100050: Futomomo_R 2
+    100052: Futomomo_R 3
+    100054: Futomomo_R 4
+    100056: Hand_L
+    100058: Hand_L 1
+    100060: Hand_L 2
+    100062: Hand_L 3
+    100064: Hand_L 4
+    100066: Hand_L_end
+    100068: Hand_L_end 1
+    100070: Hand_L_end 2
+    100072: Hand_L_end 3
+    100074: Hand_L_end 4
+    100076: Hand_R
+    100078: Hand_R 1
+    100080: Hand_R 2
+    100082: Hand_R 3
+    100084: Hand_R 4
+    100086: Hand_R_end
+    100088: Hand_R_end 1
+    100090: Hand_R_end 2
+    100092: Hand_R_end 3
+    100094: Hand_R_end 4
+    100096: Head2
+    100098: Head2 1
+    100100: Head2 2
+    100102: Head2 3
+    100104: Head2 4
+    100106: Hizashita_L
+    100108: Hizashita_L 1
+    100110: Hizashita_L 2
+    100112: Hizashita_L 3
+    100114: Hizashita_L 4
+    100116: Hizashita_R
+    100118: Hizashita_R 1
+    100120: Hizashita_R 2
+    100122: Hizashita_R 3
+    100124: Hizashita_R 4
+    100126: Hoot_L
+    100128: Hoot_L 1
+    100130: Hoot_L 2
+    100132: Hoot_L 3
+    100134: Hoot_L 4
+    100136: Hoot_L_end
+    100138: Hoot_L_end 1
+    100140: Hoot_L_end 2
+    100142: Hoot_L_end 3
+    100144: Hoot_L_end 4
+    100146: Hoot_R
+    100148: Hoot_R 1
+    100150: Hoot_R 2
+    100152: Hoot_R 3
+    100154: Hoot_R 4
+    100156: Hoot_R_end
+    100158: Hoot_R_end 1
+    100160: Hoot_R_end 2
+    100162: Hoot_R_end 3
+    100164: Hoot_R_end 4
+    100166: Lamp
+    100168: Mimi_L
+    100170: Mimi_L 1
+    100172: Mimi_L 2
+    100174: Mimi_L 3
+    100176: Mimi_L 4
+    100178: Mimi_L_end
+    100180: Mimi_L_end 1
+    100182: Mimi_L_end 2
+    100184: Mimi_L_end 3
+    100186: Mimi_L_end 4
+    100188: Mimi_R
+    100190: Mimi_R 1
+    100192: Mimi_R 2
+    100194: Mimi_R 3
+    100196: Mimi_R 4
+    100198: Mimi_R_end
+    100200: Mimi_R_end 1
+    100202: Mimi_R_end 2
+    100204: Mimi_R_end 3
+    100206: Mimi_R_end 4
+    100208: Neck
+    100210: Neck 1
+    100212: Neck 2
+    100214: Neck 3
+    100216: Neck 4
+    100218: O
+    100220: O 1
+    100222: O 2
+    100224: O 3
+    100226: O 4
+    100228: O_end
+    100230: O_end 1
+    100232: O_end 2
+    100234: O_end 3
+    100236: O_end 4
+    100238: Pikabone
+    100240: Pikachu
+    100242: //RootNode
+    100244: Star
+    100246: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2"
+    100248: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.001"
+    100250: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.002"
+    100252: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.003"
+    100254: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.004"
+    100256: "\u30AB\u30E1\u30E9"
+    100258: "\u5E73\u9762.000"
+    100260: "\u5E73\u9762.001"
+    100262: "\u5E73\u9762.004"
+    400000: Camera
+    400002: Cube
+    400004: Cube.001
+    400006: Form
+    400008: Form 1
+    400010: Form 2
+    400012: Form 3
+    400014: Form 4
+    400016: Futomomo_L
+    400018: Futomomo_L 1
+    400020: Futomomo_L 2
+    400022: Futomomo_L 3
+    400024: Futomomo_L 4
+    400026: Futomomo_L.001
+    400028: Futomomo_L.001 1
+    400030: Futomomo_L.001 2
+    400032: Futomomo_L.001 3
+    400034: Futomomo_L.001 4
+    400036: Futomomo_L.001_end
+    400038: Futomomo_L.001_end 1
+    400040: Futomomo_L.001_end 2
+    400042: Futomomo_L.001_end 3
+    400044: Futomomo_L.001_end 4
+    400046: Futomomo_R
+    400048: Futomomo_R 1
+    400050: Futomomo_R 2
+    400052: Futomomo_R 3
+    400054: Futomomo_R 4
+    400056: Hand_L
+    400058: Hand_L 1
+    400060: Hand_L 2
+    400062: Hand_L 3
+    400064: Hand_L 4
+    400066: Hand_L_end
+    400068: Hand_L_end 1
+    400070: Hand_L_end 2
+    400072: Hand_L_end 3
+    400074: Hand_L_end 4
+    400076: Hand_R
+    400078: Hand_R 1
+    400080: Hand_R 2
+    400082: Hand_R 3
+    400084: Hand_R 4
+    400086: Hand_R_end
+    400088: Hand_R_end 1
+    400090: Hand_R_end 2
+    400092: Hand_R_end 3
+    400094: Hand_R_end 4
+    400096: Head2
+    400098: Head2 1
+    400100: Head2 2
+    400102: Head2 3
+    400104: Head2 4
+    400106: Hizashita_L
+    400108: Hizashita_L 1
+    400110: Hizashita_L 2
+    400112: Hizashita_L 3
+    400114: Hizashita_L 4
+    400116: Hizashita_R
+    400118: Hizashita_R 1
+    400120: Hizashita_R 2
+    400122: Hizashita_R 3
+    400124: Hizashita_R 4
+    400126: Hoot_L
+    400128: Hoot_L 1
+    400130: Hoot_L 2
+    400132: Hoot_L 3
+    400134: Hoot_L 4
+    400136: Hoot_L_end
+    400138: Hoot_L_end 1
+    400140: Hoot_L_end 2
+    400142: Hoot_L_end 3
+    400144: Hoot_L_end 4
+    400146: Hoot_R
+    400148: Hoot_R 1
+    400150: Hoot_R 2
+    400152: Hoot_R 3
+    400154: Hoot_R 4
+    400156: Hoot_R_end
+    400158: Hoot_R_end 1
+    400160: Hoot_R_end 2
+    400162: Hoot_R_end 3
+    400164: Hoot_R_end 4
+    400166: Lamp
+    400168: Mimi_L
+    400170: Mimi_L 1
+    400172: Mimi_L 2
+    400174: Mimi_L 3
+    400176: Mimi_L 4
+    400178: Mimi_L_end
+    400180: Mimi_L_end 1
+    400182: Mimi_L_end 2
+    400184: Mimi_L_end 3
+    400186: Mimi_L_end 4
+    400188: Mimi_R
+    400190: Mimi_R 1
+    400192: Mimi_R 2
+    400194: Mimi_R 3
+    400196: Mimi_R 4
+    400198: Mimi_R_end
+    400200: Mimi_R_end 1
+    400202: Mimi_R_end 2
+    400204: Mimi_R_end 3
+    400206: Mimi_R_end 4
+    400208: Neck
+    400210: Neck 1
+    400212: Neck 2
+    400214: Neck 3
+    400216: Neck 4
+    400218: O
+    400220: O 1
+    400222: O 2
+    400224: O 3
+    400226: O 4
+    400228: O_end
+    400230: O_end 1
+    400232: O_end 2
+    400234: O_end 3
+    400236: O_end 4
+    400238: Pikabone
+    400240: Pikachu
+    400242: //RootNode
+    400244: Star
+    400246: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2"
+    400248: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.001"
+    400250: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.002"
+    400252: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.003"
+    400254: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2.004"
+    400256: "\u30AB\u30E1\u30E9"
+    400258: "\u5E73\u9762.000"
+    400260: "\u5E73\u9762.001"
+    400262: "\u5E73\u9762.004"
+    2300000: Cube
+    2300002: Cube.001
+    2300004: Star
+    3300000: Cube
+    3300002: Cube.001
+    3300004: Star
+    4300000: Star
+    4300002: Cube.001
+    4300004: Pikachu
+    4300006: "\u5E73\u9762.000"
+    4300008: "\u5E73\u9762.001"
+    4300010: "\u5E73\u9762.004"
+    4300012: Cube
+    9500000: //RootNode
+    13700000: Pikachu
+    13700002: "\u5E73\u9762.000"
+    13700004: "\u5E73\u9762.001"
+    13700006: "\u5E73\u9762.004"
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
